@@ -30,6 +30,10 @@ body {
     display: grid;
     height: 100vh;
     grid-template: auto 1fr auto / 300px 1fr auto;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.2rem;
+    color: rgb(22, 22, 33);
+    background-color: rgb(224, 222, 219);
 }
   
 header {
